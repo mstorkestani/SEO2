@@ -1,0 +1,17 @@
+Rewrite the following paragraph in a way that makes it easy for AI systems like ChatGPT to extract information. Break the content into short, standalone sentences or bullet points; use signpost phrases such as "In summary"; and explicitly state the relationships between concepts.
+
+[Insert your original paragraph here]
+
+---
+
+Write a concise passage that answers multiple related questions about Generative Engine Optimisation (GEO):
+
+- What is GEO?
+- How does GEO differ from traditional SEO?
+- Why is GEO important for marketers?
+
+Organise your response using subheadings or bullet points so that each answer is easy to locate and extract.
+
+---
+
+Our product, "EnergySense", helps homeowners reduce electricity consumption. Write a paragraph that clearly states the relationships between the product, its features and the benefits. Use explicit subject–predicate–object structures (e.g. "EnergySense uses smart sensors to monitor usage"), and conclude with a summary sentence beginning with "In summary".
